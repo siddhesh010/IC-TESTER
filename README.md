@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/the-non-academic-coder/IC-Tester-PCB-/blob/main/3D%20View1.png">
+<img align="center" src="https://github.com/the-non-academic-coder/IC-TESTER/blob/main/3D%20View1.png">
 </p>
 
   
@@ -14,7 +14,7 @@
 
 # Designed using EasyEDA, Can Order from JLCPCB
 
->[Gerber Files](https://github.com/the-non-academic-coder/IC-Tester-PCB-/blob/main/IC%20tester%20Gerber.zip)
+>[Gerber Files](https://github.com/the-non-academic-coder/IC-TESTER/blob/main/IC%20tester%20Gerber.zip)
 
 > [Order from JLCPCB](https://jlcpcb.com/)
 
@@ -26,27 +26,27 @@
 > Logic gate IC tester 
 
 <p align="center">
-<img align="center" src="https://github.com/the-non-academic-coder/IC-Tester-PCB-/blob/main/Schematic.png">
+<img align="center" src="https://github.com/the-non-academic-coder/IC-TESTER/blob/main/Schematic.png">
 </p>
 
 # Design
 > This is the PCB for the IC tester
 
 <p align="center">
-<img align="center" src="https://github.com/the-non-academic-coder/IC-Tester-PCB-/blob/main/PCB_layout.png">
+<img align="center" src="https://github.com/the-non-academic-coder/IC-TESTER/blob/main/PCB_layout.png">
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/the-non-academic-coder/IC-Tester-PCB-/blob/main/PCB_layout%201.png">
+<img align="center" src="https://github.com/the-non-academic-coder/IC-TESTER/blob/main/PCB_layout%201.png">
 </p>
 
 
 # 3D Model
 <p align="center">
-<img align="center"src="https://github.com/the-non-academic-coder/IC-Tester-PCB-/blob/main/3D%20View1.png">
+<img align="center"src="https://github.com/the-non-academic-coder/IC-TESTER/blob/main/3D%20View1.png">
 </p>
 
 <p align="center">
-<img align="center"src="https://github.com/the-non-academic-coder/IC-Tester-PCB-/blob/main/3D%20View2.png">
+<img align="center"src="https://github.com/the-non-academic-coder/IC-TESTER/blob/main/3D%20View2.png">
 </p>
 
